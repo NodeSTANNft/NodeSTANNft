@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello!
+* My name is Stan Kurkula and I am the CEO of Node STAN Nft. Our team is a community of professional participants in various tests. We've been doing this for over two years now.
 
-<!--
-**NooBBXD/NooBBXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There are several departments in our company, such as marketing department, design department, technical department.
+We also have a telegram channel with over 4000 subscribers. In this channel, we implement tests of various projects.
 
-Here are some ideas to get you started:
+We use only high-quality own servers, which we maintain ourselves. Before installing a validator, we always stress test our server for all possible flaws.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our interest is to help the project test the product and, if possible, get into the mainnet.
+We are open to cooperation and ready to fulfill the tasks that will be required of us.
+
+* About Us:
+* Twitter https://twitter.com/StanBranding and https://twitter.com/Stan_Br_1
+* TG https://t.me/stanbrandingdesignagency
+* TG channel https://t.me/H0tSalesNFT
+
+Ready to help your project!
